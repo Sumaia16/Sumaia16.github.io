@@ -83,7 +83,7 @@ Self-employed · Dhaka, Bangladesh
 
 - **Tech used:** React Native, Node.js, REST API
 - **Features:** Player matchmaking, real-time game sessions, indoor venue listings, user profiles
-- 🔗 [View on GitHub](https://github.com/jarifah/connect-arena)
+- 🔗 [View on GitHub](https://github.com/connect-arena)
 
 ---
 
@@ -92,17 +92,7 @@ Self-employed · Dhaka, Bangladesh
 
 - **Tech used:** JavaScript, Node.js, HTML, CSS
 - **Features:** Real-time seat selection, race calendar, booking confirmation system
-- 🔗 [View on GitHub](https://github.com/jarifah/f1bookings)
-
----
-
-### 🧠 Alzheimer's Disease Classification (Research)
-> Deep learning research on Explainable AI for diagnosing Alzheimer's from brain MRI scans
-
-- **Tech used:** Python, TensorFlow, Keras, Grad-CAM (XAI)
-- **Paper:** *Comparative Study of ImageNet and RadImageNet Transfer Learning for Explainable Alzheimer's Disease Classification Using Brain MRI*
-- Compared pretrained models on general vs medical imaging datasets for improved clinical explainability
-- 🔗 [View Paper](#)
+- 🔗 [View on GitHub](https://github.com/f1bookings)
 
 ---
 
@@ -111,12 +101,12 @@ Self-employed · Dhaka, Bangladesh
 
 - **Tech used:** Python, TensorFlow, NumPy, scikit-learn, OpenCV
 - **Features:** Multi-class vehicle detection, bounding box prediction, accuracy benchmarking
-- 🔗 [View on GitHub](https://github.com/jarifah/vehicle-detection)
+- 🔗 [View on GitHub](https://github.com/vehicle-detection)
 
 ---
 
 <p align="center">
-  <i>📬 Reach me at <b>jarifah@email.com</b> ·
+  <i>📬 Reach me at <b>cse_0182220012101260@lus.ac.bd</b>
   <a href="https://linkedin.com/in/sumaia">LinkedIn</a> ·
   <a href="https://github.com/sumaia">GitHub</a></i>
 </p>
